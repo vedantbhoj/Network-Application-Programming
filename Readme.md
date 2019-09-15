@@ -8,5 +8,5 @@ SJSU Makerspace in College Of Engineering requires an automated monitoring syste
 3)	Traveler’s Friend/ Travel Buddy-Ad hoc Profile matching-
 Communication Protocol using VoIP SIP protocol, Transmitter-Receiver Antennas hardware using raspberry pi Wifi.
 
-4)	Chat and File Transfer Application with multiple users. 
+4)	Chat application with File Transfer for multiple users. 
 
