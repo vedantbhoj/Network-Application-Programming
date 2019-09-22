@@ -9,4 +9,3 @@ SJSU Makerspace in College Of Engineering requires an automated monitoring syste
 Communication Protocol using VoIP SIP protocol, Transmitter-Receiver Antennas hardware using raspberry pi Wifi.
 
 4)	Chat application with File Transfer for multiple users. 
-
