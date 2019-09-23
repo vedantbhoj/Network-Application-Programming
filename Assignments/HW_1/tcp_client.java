@@ -3,10 +3,10 @@ import java.io.InputStream;
 import java.net.Socket;                                 //Import Socket package to implement this assignment
 import java.net.UnknownHostException;
 
-public class tcp_client extends Thread {
+public class Client extends Thread {
     Socket socket=null;                                 //creating a Socket Object
 
-    public tcp_client(String host,int port){
+    public Client(String host,int port){
         try {
             socket=new Socket(host,port);               // Giving the IP address 94.142.241.111 && port number 23
         }catch (UnknownHostException e){
