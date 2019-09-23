@@ -1,8 +1,10 @@
-HW #1
+***HW #1***
 ----
-Simple TCP Client
+**Simple TCP Client**
+To connect to a TCP Server given an IP address and Port.
 ----
-Team name: The Original
+**Team name: The Original**
+
 ----
 Team Members:<br /> 
 Tejas Madappa <br />
