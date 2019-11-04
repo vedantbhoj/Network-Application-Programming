@@ -31,7 +31,7 @@ public class InMemoryCacheTest {
         cache.put("UMN", "Minnesota");
  
         System.out.println("6 Cache Object Added.. cache.size(): " + cache.size());
-        cache.remove("IBM");
+        cache.remove("MIT");
         System.out.println("One object removed.. cache.size(): " + cache.size());
  
         cache.put("Stanford", "California");
@@ -47,8 +47,8 @@ public class InMemoryCacheTest {
         // maxItems = 10
         InMemoryCache<String, String> cache = new InMemoryCache<String, String>(1, 1, 10);
  
-        cache.put("eBay", "eBay");
-        cache.put("Paypal", "Paypal");
+        cache.put("sjsu", "California");
+        cache.put("sjsu", "California");
         // Adding 3 seconds sleep.. Both above objects will be removed from
         // Cache because of timeToLiveInSeconds value
         Thread.sleep(3000);
