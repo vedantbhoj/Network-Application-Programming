@@ -1,18 +1,18 @@
 /**
- * @author THE ORIGINALS
+ * @author THE ORIGINAL
  */ 
 import java.util.ArrayList;
 import org.apache.commons.collections.MapIterator;
 import org.apache.commons.collections.map.LRUMap;
  
 /**
- * @author THE ORIGINALS
+ * @author THE ORIGINAL
  */
  
 public class InMemoryCache<K, T> {
  
     private long timeToLive;
-    private LRUMap CacheMap;
+    private LRUMap CacheMap; //Using LRU Cache
  
     protected class CacheObject {
         public long lastAccessed = System.currentTimeMillis();
