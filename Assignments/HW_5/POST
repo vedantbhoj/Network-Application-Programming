@@ -1,0 +1,7 @@
+{
+  "operation": "POST",
+  "tableName": "MyTable",
+  "Item": {
+    "id": "1"
+  }
+}
