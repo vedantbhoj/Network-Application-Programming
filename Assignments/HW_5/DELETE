@@ -1,0 +1,7 @@
+{
+  "operation": "DELETE",
+  "tableName": "MyTable",
+  "Key": {
+    "id": "4"
+  }
+}
