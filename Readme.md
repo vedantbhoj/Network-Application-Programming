@@ -1,7 +1,7 @@
 # Team - The Original
 **Automated CPU Utilization and Configuration Change report via SSH**
 
-Tejas Madappa (012462372)
+Tejas Madappa 
 
 Vedant Bhoj (013554593)
 
