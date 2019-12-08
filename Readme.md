@@ -1,5 +1,5 @@
 # Team - The Original
-**Automated CPU Utilization and Configuration Change report via SSH**
+**Repo contains projects and assignments submitted for CMPE207**
 
 
 The project was built by the following team:
